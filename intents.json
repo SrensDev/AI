@@ -1,0 +1,14 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": ["hello", "hi", "hola", "hallo", "halo", "hai"],
+        "response": ["Hallo!", "Hi! How are you?", "Hi!"],
+        "required": []
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["bye", "goodbye", "cya"],
+        "response": ["Bye bye!", "Thank you and bye bye!", "See you next time!"],
+        "required": []
+    }
+]
